@@ -2,6 +2,7 @@
 <p align="center">
   Discover. Watch. Read. All things cinema in one place. 🍿🚀
 </p>
+<img width="1800" height="520" alt="hero" src="https://github.com/user-attachments/assets/87e05a9d-2bb3-492c-a4bf-d90723f9aaec" />
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/rajat20-sd/CineScope?style=for-the-badge" />
@@ -13,7 +14,7 @@
 
 ## 🔗 Live Demo
 
-🌍 **Try It Now:** [https://cinescope.vercel.app](https://cinescope.vercel.app)
+🌍 **Try It Now:** [https://cinescope.vercel.app]([https://cinescope.vercel.app](https://cine-scope-hb9h.vercel.app/))
 
 ---
 
@@ -45,8 +46,9 @@
 > Here's how CineScope looks in action:
 
 | Home Page | Movie Detail | Summary View |
-|-----------|--------------|---------------|
-| ![](assets/preview-home.png) | ![](assets/preview-detail.png) | ![](assets/preview-summary.png) |
+
+<img width="1897" height="971" alt="Screenshot 2025-07-28 195835" src="https://github.com/user-attachments/assets/baf1a009-f636-4aef-8484-261cab4acd34" />
+<img width="1883" height="975" alt="Screenshot 2025-07-28 195820" src="https://github.com/user-attachments/assets/bf5c89b5-4025-47c5-bec1-876ec7543294" />
 
 ---
 
@@ -59,3 +61,37 @@ git clone https://github.com/rajat20-sd/CineScope.git
 cd CineScope
 npm install
 ```
+
+## 
+🧪 Create a .env file:
+```bash
+VITE_TMDB_API_KEY=your_tmdb_key_here
+VITE_NEWS_API_KEY=your_news_api_key_here
+```
+
+## 🚴‍♂️ Start the app:
+```bash
+npm run dev
+```
+
+## Project Structure
+```bash
+CineScope/
+│
+├── public/                 # Static files
+├── src/
+│   ├── components/         # UI components
+│   ├── pages/              # Main pages like Home, Detail
+│   ├── api/                # API integrations
+│   └── App.jsx             # App entry
+├── .env                    # API Keys (not pushed)
+└── vite.config.js          # Build config
+```
+
+## 🙋‍♂️ Meet the Creator
+Made with 💻 and ☕ by Rajat Rawat
+Original source - YT (JavaScript Mastery)
+
+
+## ⭐ Like This Project?
+Drop a ⭐ on GitHub — it motivates me to build more awesome stuff!
