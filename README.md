@@ -14,7 +14,7 @@
 
 ## 🔗 Live Demo
 
-🌍 **Try It Now:** [https://cinescope.vercel.app]([https://cinescope.vercel.app](https://cine-scope-hb9h.vercel.app/))
+🌍 **Try It Now:** [https://cinescope.vercel.app]([https://cine-scope-hb9h.vercel.app/](https://cine-scope-hb9h.vercel.app/))
 
 ---
 
